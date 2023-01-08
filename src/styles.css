@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#result {
+  font-size: 30px;
+  color: red;
+  padding: 10px 20px;
+  width: 60%;
+  margin: auto;
+}
+
+.box {
+  padding: 15px;
+  background: aquamarine;
+  display: inline;
+}
+
+.row {
+  display: flex;
+  justify-items: center;
+}
